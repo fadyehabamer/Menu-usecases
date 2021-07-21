@@ -1,2 +1,2 @@
 # Menus
- Responsive Menus Using Css3
+> Responsive Menu use-cases using CSS3
